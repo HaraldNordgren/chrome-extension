@@ -1,3 +1,0 @@
-compare matches with available options (should give correct answer right away when one club is available)
-
-guess when there is no match
